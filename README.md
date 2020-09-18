@@ -2,6 +2,18 @@
 
 ![Project Image](https://media.parstoday.com/image/4bn4a144eabe14ye08_800C450.jpg)
 
+---
+
+### Table of Contents
+You're sections headers will be used to reference location of destination.
+
+- [Introduction](#introduction)
+- [Description](#description)
+- [References](#references)
+- [Author Info](#author-info)
+
+---
+
 ## DESCRIPTION OF PROJECT
 In this project, a multi-level exploratory data analysis is used to estimate the state-level probabilities of being shot by police as compared to the race of a suspect, his or her age, and status as being armed or unarmed. As the data become more complete and further analysis is done, this analysis can be extended to estimate a more accurate risk of being shot by police within the United States of America. The main objective of this exploratory research is to identify the correlation between the US police shootings against race, ethnicity and gender within the dataset provided.
 The dataset to be explored is a subset of the fatal shooting database published by the Washington Post, which contains records by a police officer in the line of duty since January 1, 2015. The main objectives of exploratory data analysis (EDA) is to maximize insight into the database structure, to detect outliers and anomalies, as well as to visualize potential relationships between the different variables (Komorowski et al., 2016).

@@ -38,3 +38,13 @@ The dataset used in this analysis contains a total of 4895 rows – victims of t
 13.	Flee: Did the victim attempt to flee from the scene?
 14.	Body_camera: Did the police officer have his body camera on or was it absent?
 15.	Arms_category: What category of arms did the armed victim belong to? 
+
+## Insights
+An extensive exploratory data analysis (EDA) of the US Police shootings recorded that a total of 4895 people have been shot and killed by police since 1st June, 2020. It is not far-fetched to say that most of the victims of police killing in the U.S are male as it consists of approximately 95% of the total data recorded. Also, the age of the victims were fairly normally distributed with a long tail and the age group within 20-40 years having the highest number of occurrences.
+
+Surprisingly, more ‘White’ people were killed as compared to ‘Black’ people, clearly indicating that further analysis should be considered in order to consider the ‘white’ and ‘black’ populations of the shootings. With over 50% of the total victims being armed wither with a firearm or a knife, more than 75% of the victims did not attempt to flee from the sight of the police upon their encounter. The statistics of the dataset could keep going on and on, however the rate of killings from 2nd January, 2015 have remained somewhat steady till 31st December, 2019. As the dataset records are not up till the end of 2020, a good rate of shootings will not be analysed with its inclusion.
+
+With most victims being young male between the ages of 20 and 40 years, the future generation of the United States of America is to be questioned and investigated. Why are they killed more often? Are they engaging in activities which allow them to encounter the police more often? The analyses performed on this dataset hasn’t been exhausted and more work could be done on it.
+
+
+## Conclusion

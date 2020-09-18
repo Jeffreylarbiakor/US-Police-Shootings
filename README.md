@@ -48,3 +48,4 @@ With most victims being young male between the ages of 20 and 40 years, the futu
 
 
 ## Conclusion
+In a nutshell, there were a total of 4895 shootings, out of which over 80% of incidents were unfilmed. One hundred and thirty-eight people neither had a weapon nor posed any threat yet California recorded the highest number of shootings.

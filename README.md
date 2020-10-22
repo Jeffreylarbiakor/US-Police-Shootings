@@ -11,7 +11,6 @@ You're sections headers will be used to reference location of destination.
 - [Dataset Description](#dataset-description)
 - [Insights](#insights)
 - [Conclusion](#conclusion)
-- [References](#references)
 - [Author Info](#author-info)
 
 ---
@@ -49,4 +48,9 @@ With most victims being young male between the ages of 20 and 40 years, the futu
 
 ## Conclusion
 In a nutshell, there were a total of 4895 shootings, out of which over 80% of incidents were unfilmed. One hundred and thirty-eight people neither had a weapon nor posed any threat yet California recorded the highest number of shootings.
- 
+
+## Author Info
+1. James Owusu-Appiah
+2. Jeffrey Larbi-Akor
+3. Jemima Denteh
+4. Joana Lartey
